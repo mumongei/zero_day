@@ -1,2 +1,1 @@
-Markdown
-:  installation of git
+command uname output
